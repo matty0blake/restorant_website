@@ -1,7 +1,7 @@
 @keyframes fade_up {
     0% {
         opacity: 0%;
-        clip-path: inset(20% at 0% 0%);
+        clip-path: circle(20% at 0% 0%);
     }
     100% {
         opacity: 100%;
