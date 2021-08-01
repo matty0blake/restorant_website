@@ -25,7 +25,7 @@ const filtering = (require) => {
         if (data[i].type === require) {
             let div = document.createElement("div")
             div.classList.add("menu_product_item")
-            div.style.animation = "fade_up 1s"
+            div.style.animation = "fade_up 2s"
             let img = document.createElement("img")
             img.src = data[i].path
             let h1 = document.createElement("h1")
