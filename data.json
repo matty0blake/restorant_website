@@ -1,0 +1,19 @@
+[{
+        "id": "0",
+        "name": "suci",
+        "type": "lunch",
+        "path": "/home/julian/Deve/projects/restorant_website/image/menu/1.jpg"
+    },
+    {
+        "id": "1",
+        "name": "fish",
+        "type": "lunch",
+        "path": "/home/julian/Deve/projects/restorant_website/image/menu/2.jpg"
+    },
+    {
+        "id": "2",
+        "name": "cola",
+        "type": "drink",
+        "path": "/home/julian/Deve/projects/restorant_website/image/menu/3.jpg"
+    }
+]
